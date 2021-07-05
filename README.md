@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khalil44m
+- 👋 Hi, I’m @khalil44m, a Columbia University graduate (2019 Masters of Operations Research)
 - 👀 I’m interested in Data Science and Quantitative Analysis,
 - 🌱 I’m currently learning R and developing applications of Machine Learning, 
 - 💞️ I’m looking to collaborate on data science statistical projects and ideas,
